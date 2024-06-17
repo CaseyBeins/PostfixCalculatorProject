@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05123064-a06e-4c8a-8583-0cac016906d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/postfixcalculatorprogram/PostfixCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/expressions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/postfixcalculatorprogram/PostfixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/postfixcalculatorprogram/PostfixCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postfixcalculatorprogram/PostfixCalculator.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +31,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2hmzk0n6BfzEmQYOmas97CLdNT2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,10 +43,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.PostfixCalculator.executor": "Run",
+    "Application.SimpleFactorial.executor": "Run",
+    "Application.com.example.postfixcalculatorprogram.PostfixCalculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Casey/IdeaProjects/PostFixCalculatorProgram",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +58,34 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.com.example.postfixcalculatorprogram.PostfixCalculator">
+    <configuration name="PostfixCalculator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.postfixcalculatorprogram.PostfixCalculatorprogram" />
+      <module name="PostFixCalculatorProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.postfixcalculatorprogram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.postfixcalculatorprogram.PostfixCalculator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.postfixcalculatorprogram.PostfixCalculator" />
+      <module name="PostFixCalculatorProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.postfixcalculatorprogram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +102,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718214181968</updated>
-      <workItem from="1718214183142" duration="308000" />
+      <workItem from="1718214183142" duration="1657000" />
+      <workItem from="1718338800633" duration="1240000" />
+      <workItem from="1718585380695" duration="46000" />
+      <workItem from="1718595438005" duration="126000" />
+      <workItem from="1718596531130" duration="1030000" />
     </task>
     <servers />
   </component>
